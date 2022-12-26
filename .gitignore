@@ -1,0 +1,5 @@
+.project
+.settings/
+target/
+gateway-api-messaging/.classpath
+gateway-api/.classpath
